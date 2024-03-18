@@ -6,7 +6,7 @@ description: https://aws.amazon.com/ko/what-is/osi-model/
 
 ## OSI(Open System Interconnection Reference Model)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://aws.amazon.com/ko/what-is/osi-model/">https://aws.amazon.com/ko/what-is/osi-model/</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://aws.amazon.com/ko/what-is/osi-model/">https://aws.amazon.com/ko/what-is/osi-model/</a></p></figcaption></figure>
 
 #### 1. 물리 계층
 
