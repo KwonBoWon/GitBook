@@ -8,7 +8,7 @@ description: Basic of networking, understanding how devices communicate over a n
 
 *   Network Fundamentals
 
-    [osi-model-layers-functions-and-interaction-methods..md](undefined/osi-model-layers-functions-and-interaction-methods..md "mention")
+    ![osi-model-layers-functions-and-interaction-methods..md](undefined/osi-model-layers-functions-and-interaction-methods..md "mention")
 
     [tcp-ip-model-comparison-with-the-osi-model-and-its-applications-in-real-world-scenarios..md](undefined/tcp-ip-model-comparison-with-the-osi-model-and-its-applications-in-real-world-scenarios..md "mention")
 
